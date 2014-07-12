@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SteamKit2;
 
-namespace BOT
+namespace GBot
 {
     class SteamHandler:IProtocolSocket
     {

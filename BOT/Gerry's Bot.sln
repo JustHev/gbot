@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOT", "BOT\BOT.csproj", "{11C9F06D-BAC8-41EA-A7A2-9C739A1548E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBot", "BOT\GBot.csproj", "{11C9F06D-BAC8-41EA-A7A2-9C739A1548E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
