@@ -1,1 +1,1 @@
-### GO TO http://thewarpdimension.github.io/gbot FOR INFORMATION
+### GO TO http://thewarpdimension.github.io/gbot FOR INFORMATION!
