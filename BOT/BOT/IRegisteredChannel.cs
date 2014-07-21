@@ -8,6 +8,6 @@ namespace GBot
 {
     interface IRegisteredChannel:IRegisterable
     {
-        Dictionary<string, int> permslist; //string=adress, int=perms
+        Dictionary<string, int> permslist { get; set; } //string=adress, int=perms
     }
 }

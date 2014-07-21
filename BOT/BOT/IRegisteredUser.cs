@@ -8,6 +8,6 @@ namespace GBot
 {
     interface IRegisteredUser:IRegisterable
     {
-        int GlobalPerms;
+        int GlobalPerms { get; set; }
     }
 }

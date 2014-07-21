@@ -10,7 +10,7 @@ namespace GBot
 {
     class LuaCommand
     {
-        File file;
+        //File file;
         Regex trigger;
         int requiredperms;
 

@@ -8,11 +8,11 @@ namespace GBot
 {
     interface IRegisterable
     {
-        string network;
-        string name;
-        Object Adress;
-        Dictionary<string, LuaCommand> commands;
+        string network {get; set;}
+        string name {get; set;}
+        Object Adress { get; set; }
+        Dictionary<string, LuaCommand> commands { get; set; }
 
-        public void SendMessage(string message);
+        void SendMessage(string message);
     }
 }
